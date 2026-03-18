@@ -1,4 +1,4 @@
-# Colors 🎨
+# Colorsgen 🎨
 
 A modern, minimal, and professional color palette generator built with **Next.js 16**, **TypeScript**, and **Tailwind CSS v4**.
 
