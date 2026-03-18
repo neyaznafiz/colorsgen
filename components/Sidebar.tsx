@@ -21,7 +21,7 @@ const Sidebar = () => {
         </div>
         <div className="flex flex-col">
           <span className="font-bold text-lg leading-tight tracking-tight">Colors</span>
-          <span className="text-[10px] text-stone-400 font-bold uppercase tracking-widest">v1.0</span>
+          <span className="text-[10px] text-stone-400 font-bold uppercase tracking-widest">v2.0</span>
         </div>
       </div>
 
